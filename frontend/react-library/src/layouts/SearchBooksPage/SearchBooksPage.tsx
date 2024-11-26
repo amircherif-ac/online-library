@@ -24,7 +24,10 @@ export const SearchBooksPage = () => {
       if (searchUrl === "") {
         url = `${baseUrl}?page=${currentPage - 1}&size=${booksPerPage}`;
       } else {
-        let searchWithPage = searchUrl.replace('<pageNumber>', `${currentPage - 1}`)
+        let searchWithPage = searchUrl.replace(
+          "<pageNumber>",
+          `${currentPage - 1}`
+        );
         url = baseUrl + searchWithPage;
       }
 
@@ -208,7 +211,7 @@ export const SearchBooksPage = () => {
           )}
 
           {books.map((book) => (
-            <SearchBook book={book} />
+            <SearchBook key={book.id} book={book} />
           ))}
           {totalPages > 1 && (
             <Pagination
