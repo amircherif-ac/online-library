@@ -1,10 +1,17 @@
 ﻿# Digital Library
+ ![Screenshot 1](https://github.com/user-attachments/assets/14da2f30-14a5-4915-8f64-dc4922c0c80c)
+
+ ![Screenshot 2](https://github.com/user-attachments/assets/53d7cc47-43b1-4499-b989-6be6c9093c2e)
+
+ ![Screenshot 3](https://github.com/user-attachments/assets/beba7fb7-3f11-47ef-9a85-b1a3512ed295)
+
 ## Description
 This project is an online library application that allows users to browse, borrow, and return books. It provides a secure and user-friendly interface for managing library resources.
 
 ## Features
 - User authentication and authorization using Spring Security and JWT.
-- Browse available books.
+- Browse available
+ books.
 - Borrow and return books.
 - Manage user profiles.
 - Admin panel for managing library resources.
