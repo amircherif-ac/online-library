@@ -1,6 +1,4 @@
 ﻿# Digital Library
-
-## Description
 This project is an online library application that allows users to browse, borrow, and return books. It provides a secure and user-friendly interface for managing library resources.
 
 ## Screenshots
