@@ -2,7 +2,7 @@
 This project is an online library application that allows users to browse, borrow, and return books. It provides a secure and user-friendly interface for managing library resources.
 
 ## Screenshots
- ![Screenshot 1](https://github.com/user-attachments/assets/14da2f30-14a5-4915-8f64-dc4922c0c80c)
+![Screenshot 1](https://github.com/user-attachments/assets/990db1e0-2915-44bb-ad66-acac1f2f18ec)
 
  ![Screenshot 2](https://github.com/user-attachments/assets/53d7cc47-43b1-4499-b989-6be6c9093c2e)
 
