@@ -51,12 +51,6 @@ This project is an online library application that allows users to browse, borro
     ```
 3. Open your browser and navigate to `http://localhost:3000` to use the application.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
-
 ## Technologies
 - **TypeScript**: Typed superset of JavaScript for scalable applications  
 - **React**: Library for building component-based user interfaces  
