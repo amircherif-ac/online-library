@@ -23,6 +23,13 @@ This project is an online library application that allows users to browse, borro
 - Manage user profiles.
 - Admin panel for managing library resources.
 
+## Tech Stack
+- **TypeScript**
+- **React**
+- **Spring Boot**
+- **Spring Security**
+- **Spring Data JPA**
+
 ## Installation
 1. Clone the repository:
     ```bash
@@ -55,11 +62,3 @@ This project is an online library application that allows users to browse, borro
     npm start
     ```
 3. Open your browser and navigate to `http://localhost:3000` to use the application.
-
-## Technologies
-- **TypeScript**: Typed superset of JavaScript for scalable applications  
-- **React**: Library for building component-based user interfaces  
-- **Spring Boot**: Framework for rapid Java application development  
-- **Spring Security**: Authentication and authorization framework for Java  
-- **JWT**: Token-based secure data exchange  
-- **Spring Data JPA**: Simplified database access with JPA  
