@@ -16,9 +16,8 @@ This project is an online library application that allows users to browse, borro
 ![Screenshot 3](https://github.com/user-attachments/assets/beba7fb7-3f11-47ef-9a85-b1a3512ed295)
 
 ## Features
-- User authentication and authorization using Spring Security and JWT.
-- Browse available
- books.
+- User authentication.
+- Browse available books.
 - Borrow and return books.
 - Manage user profiles.
 - Admin panel for managing library resources.
